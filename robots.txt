@@ -1,0 +1,2 @@
+vUser-agent: *
+Disallow: /
